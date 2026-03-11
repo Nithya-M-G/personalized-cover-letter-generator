@@ -1,0 +1,7 @@
+streamlit
+easyocr
+ollama
+numpy
+Pillow
+PyPDF2
+python-docx
